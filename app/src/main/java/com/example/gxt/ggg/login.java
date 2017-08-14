@@ -9,4 +9,5 @@ public class login {
     int gxt;
 
     int sxhRebase;
+    int get2;
 }
