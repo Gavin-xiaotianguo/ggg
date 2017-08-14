@@ -5,5 +5,6 @@ package com.example.gxt.ggg;
  */
 
 public class login {
+    int sxh;
     int gxt;
 }
